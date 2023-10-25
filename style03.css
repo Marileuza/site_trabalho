@@ -1,0 +1,27 @@
+body{
+	background: #90e0ef;
+}
+h1 {
+	color: #16425b;
+	text-align: center;
+	font-family: arial black;
+}
+h2 {
+	font-family: arial black;
+	font-size: 18px;
+	color: #16425b;
+}
+p {
+	text-align: center;
+	font-size: 16px;
+	font-family: arial black;
+}
+button{
+	margin-right: 30px;
+	background: #0096c7;
+	right: 180px;
+	height: 60px;
+	border: none;
+	box-shadow: 4px 5px 4px rgba(0, 0, 0, 0,25);
+	border-radius: 20px;
+}
